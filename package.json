@@ -1,0 +1,15 @@
+{
+  "name": "compteur_interactif",
+  "version": "1.0.0",
+  "description": "application de compteur intéractif",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flo",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.17.0",
+    "prettier": "^3.4.2"
+  }
+}
